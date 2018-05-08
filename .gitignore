@@ -1,0 +1,5 @@
+log.t
+dist
+node_modules
+.vscode
+.eslintrc.js
